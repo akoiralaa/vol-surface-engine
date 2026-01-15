@@ -311,4 +311,4 @@ MIT License
 
 ## Author
 
-Abhi Ekoirala | January 2025
+Abhie Koirala
